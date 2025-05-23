@@ -92,10 +92,3 @@ Our app is not intended for children under the age of 13. We do not knowingly co
 We may update this Privacy Policy from time to time. Changes will be posted in the app and/or on our website.
 
 ---
-
-## 9. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-📧 **Email:** support@clinikapp.com  
-🌐 **Website:** [www.clinikapp.com](http://www.clinikapp.com)  
